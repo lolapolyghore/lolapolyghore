@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lolapolyghore
+- 👋 Hi, I’m Clem
 - 🌱 I’m currently learning basics of web development at Le Wagon Paris
 - 💞️ I’m looking to collaborate on anything a beginner can benefit from
 
